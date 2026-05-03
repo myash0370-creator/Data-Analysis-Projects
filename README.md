@@ -38,7 +38,16 @@ https://github.com/myash0370-creator/Statistical-analysis-of-crime-trends-in-utt
 https://github.com/myash0370-creator/user-data-cleaner-analyzer
 
 ---
+### 📌 4. Customer Segmentation using RFM Analysis
 
+• Performed customer segmentation using RFM (Recency, Frequency, Monetary) analysis  
+• Cleaned and processed real-world e-commerce transactional data  
+• Calculated RFM metrics and assigned scores to identify customer behavior  
+• Segmented customers into High, Medium, and Low value groups  
+• Derived business insights for customer retention and targeted marketing  
+---
+🔗 Project Link:  
+https://github.com/myash0370-creator/RFM-Based-Customer-Segmentation-Business-Insights
 ## 🛠️ Tools & Technologies
 
 - Python 🐍  
